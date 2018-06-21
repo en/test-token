@@ -1,0 +1,19 @@
+{
+  "name": "test-token",
+  "version": "1.0.0",
+  "description": "",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "openzeppelin-solidity": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Yuanchao Sun <yuanchao.sun@gmail.com>",
+  "license": "MIT"
+}
